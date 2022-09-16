@@ -1,4 +1,4 @@
 ## React Project
 
 
-These are some Project and Learning on some React Concept.
+These are some Project on react with Learning some React Concept.
