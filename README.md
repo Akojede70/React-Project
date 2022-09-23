@@ -1,4 +1,3 @@
 ## React Project
 
-
-These are some Project on react with Learning some React Concept.
+These Projects was built to sharpen my learning and some concepts in react
